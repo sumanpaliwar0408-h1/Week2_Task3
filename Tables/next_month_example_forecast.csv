@@ -1,0 +1,2 @@
+forecast_month,predicted_sales_units,method,forecast_horizon_months,uses_observed_history_through
+1994-09-01,24482.86,Tuned Random Forest,1,1994-08-01

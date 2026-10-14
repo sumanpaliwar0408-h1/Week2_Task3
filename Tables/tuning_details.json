@@ -1,0 +1,14 @@
+{
+  "baseline_family_selected": "Random Forest",
+  "tuned_model": "Tuned Random Forest",
+  "cv_rmse_best": 2978.355,
+  "best_hyperparameters": {
+    "regressor__n_estimators": 160,
+    "regressor__min_samples_leaf": 1,
+    "regressor__max_features": 0.6,
+    "regressor__max_depth": null
+  },
+  "cv_folds": 4,
+  "random_seed": 42,
+  "search_method": "RandomizedSearchCV"
+}
